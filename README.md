@@ -186,15 +186,6 @@ Al ejecutar el codigo, se espera obtener:
 2. Ejemplos de conexiones entre jugadores.
 3. Una visualizacion con tres canchas, cada una mostrando la red de pases de Francia contra Tunez, Dinamarca y Australia.
 
-## Posibles mejoras
-
-El analisis se puede mejorar agregando:
-
-- Peso en las aristas para representar cuantas veces se repite un pase entre dos jugadores.
-- Colores distintos segun posicion del jugador.
-- Filtros por minuto o periodo del partido.
-- Comparacion entre pases intentados y pases completados.
-- Medidas de centralidad para identificar a los jugadores mas importantes en la red.
 
 ## Conclusion
 
